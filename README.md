@@ -2,7 +2,7 @@
 
 This repository contains three assignments and a master thesis that were made as part of courses of the MSc Data Science and Society, Department of Humanities and Digital Sciences at Tilburg University. The pdf files include a description of our experiments and results including features used, learning models and algorithm, parameter tuning and references.
 
-Master Thesis: Bias quantification measures based onfuzzy rough sets
+- Master Thesis: Bias quantification measures based onfuzzy rough sets
 
 Abstract: The need to measure bias in pattern classification datasets has gained wide recognition in the field of Artificial Intelligence (AI). The research community calls for the introduction of new bias measures as existing ones are highly context specific. This thesis proposes five new model-independent measures to quantify bias using the fuzzy-rough set theory. The intuition behind them is that protected features should not change the fuzzy-rough set regions significantly. The extent to which this happens is considered to be a proxy for bias quantification. The advantages of the proposed measures are that (i) they do not depend on any black-box prediction model but on a distance function, (ii) they offer an intuitive rationale, and (iii) they introduce the novel notion of uncertainty in decision-making as a proxy for bias. The proposed measures are tested on two datasets and compared to popular group fainress literature measures. The results showed that the proposed measures differ from the literature measures in terms of both trend and magnitude. This suggests that a fuzzy-rough set based approach might capture bias better than current state-of-the-art approaches.
 
